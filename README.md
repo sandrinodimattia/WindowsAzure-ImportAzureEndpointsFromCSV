@@ -1,0 +1,3 @@
+# Adding multiple endpoints to your Windows Azure Virtual Machines by using a CSV file
+
+This script allows you to add multiple endpoints to a Windows Azure Virtual Machine through reusable CSV files. Simply define your ports in a CSV file and call the script to create them for a specific VM. This script also supports load-balanced endpoints. [See my blog for more information.](http://fabriccontroller.net/blog/posts/adding-multiple-endpoints-to-your-windows-azure-virtual-machines-by-using-a-csv-file/)
